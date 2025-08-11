@@ -1,7 +1,0 @@
-D:\git\madenrig\src\3rdparty\argon2\lib\argon2.c;D:\git\madenrig\build\src\3rdparty\argon2\argon2.dir\Release\argon2.obj
-D:\git\madenrig\src\3rdparty\argon2\lib\core.c;D:\git\madenrig\build\src\3rdparty\argon2\argon2.dir\Release\core.obj
-D:\git\madenrig\src\3rdparty\argon2\lib\encoding.c;D:\git\madenrig\build\src\3rdparty\argon2\argon2.dir\Release\encoding.obj
-D:\git\madenrig\src\3rdparty\argon2\lib\genkat.c;D:\git\madenrig\build\src\3rdparty\argon2\argon2.dir\Release\genkat.obj
-D:\git\madenrig\src\3rdparty\argon2\lib\impl-select.c;D:\git\madenrig\build\src\3rdparty\argon2\argon2.dir\Release\impl-select.obj
-D:\git\madenrig\src\3rdparty\argon2\lib\blake2\blake2.c;D:\git\madenrig\build\src\3rdparty\argon2\argon2.dir\Release\blake2.obj
-D:\git\madenrig\src\3rdparty\argon2\arch\x86_64\lib\argon2-arch.c;D:\git\madenrig\build\src\3rdparty\argon2\argon2.dir\Release\argon2-arch.obj
