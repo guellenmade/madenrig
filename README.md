@@ -11,6 +11,8 @@ XMRig is a high performance, open source, cross platform RandomX, KawPow, Crypto
 
 ## this is a very bad fork for XMRig
 - **Xmrig offical repo:** [Xmrig](https://github.com/xmrig/xmrig)
+- **Disclamer: I cant code so it will be very shitty**
+
 
 ## Mining backends
 - **CPU** (x86/x64/ARMv7/ARMv8)
@@ -29,6 +31,7 @@ The preferred way to configure the miner is the [JSON config file](https://xmrig
 
 ## Donations
 * Default donation 1% (1 minute in 100 minutes) can be increased via option `donate-level` or disabled in source code.
+* This fork already disabled all donations.
 * XMR: `48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD`
 
 ## Developers
@@ -36,7 +39,7 @@ The preferred way to configure the miner is the [JSON config file](https://xmrig
 * **[sech1](https://github.com/SChernykh)**
 * **[Güllenmade](https://github.com/guellenmade)**
 
-## Contacts
+## Contacts Dont ask the offical sources for questions about this fork
 * support@xmrig.com
 * [reddit](https://www.reddit.com/user/XMRig/)
 * [twitter](https://twitter.com/xmrig_dev)
