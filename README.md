@@ -7,7 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/xmrig/xmrig.svg)](https://github.com/xmrig/xmrig/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/xmrig/xmrig.svg)](https://github.com/xmrig/xmrig/network)
 
-XMRig is a high performance, open source, cross platform RandomX, KawPow, CryptoNight and [GhostRider](https://github.com/xmrig/xmrig/tree/master/src/crypto/ghostrider#readme) unified CPU/GPU miner and [RandomX benchmark](https://xmrig.com/benchmark). Official binaries are available for Windows, Linux, macOS and FreeBSD.
+Madenrig is a fork of XMRig that disables the default donation.
 
 ## Mining backends
 - **CPU** (x86/x64/ARMv7/ARMv8/RISC-V)
@@ -15,7 +15,7 @@ XMRig is a high performance, open source, cross platform RandomX, KawPow, Crypto
 - **CUDA** for NVIDIA GPUs via external [CUDA plugin](https://github.com/xmrig/xmrig-cuda).
 
 ## Download
-* **[Binary releases](https://github.com/xmrig/xmrig/releases)**
+* **[Binary releases](https://github.com/guellenmade/madenrig/releases)**
 * **[Build from source](https://xmrig.com/docs/miner/build)**
 
 ## Usage
@@ -25,12 +25,13 @@ The preferred way to configure the miner is the [JSON config file](https://xmrig
 * **[Workers](http://workers.xmrig.info)** helps manage your miners via HTTP API.
 
 ## Donations
-* Default donation 1% (1 minute in 100 minutes) can be increased via option `donate-level` or disabled in source code.
+* Default donation 0%
 * XMR: `48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD`
 
 ## Developers
 * **[xmrig](https://github.com/xmrig)**
 * **[sech1](https://github.com/SChernykh)**
+* **[Guellenmade](https://github.com/guellenmade)**
 
 ## Contacts
 * support@xmrig.com
